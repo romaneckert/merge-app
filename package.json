@@ -1,0 +1,20 @@
+{
+  "name": "@merge/app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romaneckert/merge-app.git"
+  },
+  "keywords": [],
+  "author": "Roman Eckert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/romaneckert/merge-app/issues"
+  },
+  "homepage": "https://github.com/romaneckert/merge-app#readme"
+}
